@@ -6,3 +6,5 @@ This program simulates a vending machine. The program displays a menu of items, 
 1. Select option 2 and enter the amount of coins you would like to use into the Vending Machine.
 2. Select option 1 and enter the item ID of the product you want to select.
 3. The vending machine will subtract the price of the item selected from your coin amount and display the menu again. You can choose to select another item or exit the vending machine and take your coins.
+
+- To update the vending machine items, add, delete, or edit the txt file.
